@@ -1,2 +1,3 @@
-# hash_tags_parser
-Parsing hashtags with some basic algorithm
+# Hash tags parser
+
+Parsing hashtags with some basic algorithms, based on dictionary and, sometimes, big text example.
